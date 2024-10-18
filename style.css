@@ -1,0 +1,50 @@
+body{
+
+    margin: 0px;
+}
+.main{
+    border: 4px solid goldenrod;
+    width: auto;
+    background-color: rgb(94, 94, 94);
+    height: 950px;
+    text-align: center  ;
+}
+.picter img{
+    width: 300px;
+    margin-top: 20px;
+    height: 300px;
+    border: 5px solid goldenrod;
+    border-radius: 50px;
+}
+h2{
+    color: gold;
+    font-family: monospace;
+    text-transform: uppercase;
+}
+b{
+    color: aqua;
+}
+.links{
+        display: block;
+        border: 1px solid goldenrod;
+        height: 40px;
+        width: 400px;
+        margin-top: 10px;
+        color: rgb(75, 43, 255);
+        text-decoration: none;
+        font-size: 30px;
+        text-transform: uppercase;
+        margin-left: auto;
+        margin-right: auto;
+         transition: 1s;
+         padding: 20px;
+}
+.links:hover{
+    
+    border-radius:  20px 0px 20px 0px;
+    background-color: aqua;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
